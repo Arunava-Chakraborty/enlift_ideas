@@ -1,8 +1,4 @@
-Here is a **professional, clean, well-structured README.md** for your **`enlift_ideas`** GitHub repository.
-You can copy-paste this directly into your repo.
-It includes: project description, contribution guide, idea format, examples, issue labels, and community message.
 
----
 
 # ✨ EnLift Ideas – Community Contributions
 
